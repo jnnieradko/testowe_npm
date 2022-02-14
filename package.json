@@ -1,12 +1,12 @@
 {
   "name": "testowe_npm",
   "version": "1.0.0",
-  "description": "",
+  "description": "to jest moja testowa funkcja, którą chcę umieścić na npm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Asiula",
   "license": "ISC"
 }
